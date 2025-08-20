@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879155598340",
+    "project_id": "test-1-d0413",
+    "storage_bucket": "test-1-d0413.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879155598340:android:840336068b3484d5535151",
+        "android_client_info": {
+          "package_name": "com.example.habits_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-yY9RYq753s4d8o0c_44lQDBcFJPWnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879155598340:android:c8632e497b8bff61535151",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-yY9RYq753s4d8o0c_44lQDBcFJPWnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
